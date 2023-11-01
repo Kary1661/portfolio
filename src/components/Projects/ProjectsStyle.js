@@ -39,17 +39,6 @@ margin-top: 20px;
   }
 `;
 
-export const Desc = styled.div`
-    font-size: 18px;
-    text-align: center;
-    max-width: 600px;
-    color: ${({ theme }) => theme.text_secondary};
-    @media (max-width: 768px) {
-        margin-top: 12px;
-        font-size: 16px;
-    }
-`;
-
 export const ToggleButtonGroup = styled.div`
     display: flex;
     border: 1.5px solid ${({ theme }) => theme.primary};
@@ -80,11 +69,6 @@ export const ToggleButton = styled.div`
         border-radius: 4px;
     }
 `
-export const Divider = styled.div`
-    width: 1.5px;
-    background: ${({ theme }) => theme.primary};
-`
-
 
 export const CardContainer = styled.div`
     display: flex;
