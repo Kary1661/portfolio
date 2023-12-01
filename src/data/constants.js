@@ -117,7 +117,7 @@ export const education = [
     img: "https://i.ytimg.com/vi/iclPAx8jMOA/mqdefault.jpg",
     school: "Soy Henry",
     date: "Jan 2023  - Sep 2023",
-    desc: "The Full Stack Full Time program at Soy Henry is a comprehensive and intensive course designed to equip students with the skills and knowledge necessary to become proficient full stack developers. This program covers both front-end and back-end development, providing a holistic understanding of web development. Students learn various programming languages such as HTML, CSS, JavaScript, and frameworks like React, Node.js, and Express.js. The curriculum is structured to cover a wide range of topics including database management, server-side development, API integration, and project management. The program emphasizes hands-on learning through real-world projects, enabling students to build a strong portfolio to showcase their abilities to potential employers. Participants engage in a rigorous full-time schedule that includes lectures, workshops, practical exercises, and teamwork to simulate professional work environments. Additionally, the program often incorporates industry guest speakers, hackathons, and career guidance to enhance the overall learning experience.",
+    desc: "The Full Stack carrer at Soy Henry is a comprehensive and intensive course designed to equip students with the skills and knowledge necessary to become proficient full stack developers. This program covers both front-end and back-end development, providing a holistic understanding of web development. Students learn various programming languages such as HTML, CSS, JavaScript, and frameworks like React, Node.js, and Express.js. The curse is structured to cover a wide range of topics including database management, server-side development, API integration, and project management. The students engage a rigorous full-time schedule that includes lectures, workshops, practical exercises, and teamwork to simulate professional work environments.",
     degree: "Full Stack Web Developer",
   }
 ]
@@ -125,41 +125,41 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Simple Mario Game",
+    date: "August/2023",
     description:
-      "",
+      "A simple javascript game of whack a mole using a little css",
     image:
-      "",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "",
-    webapp: ""
+      "url(C:\Users\camar\Desktop\Proyectos\portfolio\src\images\mario-game.png)",
+    tags: ["Javascript" , "CSS"],
+    category: "Web App",
+    github: "https://github.com/Kary1661/simple-mario-game",
+    webapp: "https://simple-mario-game-7e79am0uf-kary1661.vercel.app/"
   },
   {
     id: 1,
-    title: "",
-    date: "",
+    title: "Henry Final Project",
+    date: "September/2023",
     description:
-      "",
+      "For the Henry final project we developed a web app to buy PC video games in digital format, together with 5 colleagues we created it from scratch in a period of 3 weeks, this app makes card purchases using Stripe, it has a profile section, for login we use Auth0. If your user has administrator permission, a dashboard can be used to ban users, modify or add games, as well as keep a record of all purchases made on the page.",
     image:
-      "",
-    tags: [],
-    category: "",
-    github: "",
-    webapp: "",
+      "URL(C:\Users\camar\Desktop\Proyectos\portfolio\src\images\imagen-proyecto2.png)",
+    tags: ["React", "Redux", "Node", "Express", "Sequelize", "Styled Components", "Material UI", "PostgreSQL"],
+    category: "Web App",
+    github: "https://github.com/migayalach/PF_GAMES",
+    webapp: "https://pf-games.vercel.app/",
   },
   {
     id: 2,
-    title: "",
-    date: "",
+    title: "Nextjs Amazon Clone",
+    date: "December/2023",
     description:
-      "",
+      "This is an Amazon clone using Next.js, it's robust and feature-rich e-commerce website that closely mimics the renowned online marketplace. Contains: Stripe Payment Integration, AuthJS Login, Tailwind CSS, Redux for State Management whit the power of Redux-Toolkit",
     image:
-      "",
-    tags: [], //tecnologias usadas
-    category: "",
-    github: "",
-    webapp: ""
+      "URL(C:\Users\camar\Desktop\Proyectos\portfolio\src\images\imagen-proyecto3.png)",
+    tags: ["Nextjs", "React", "ReduxToolkit", "Stripe", "AuthJS", "Tailwind CSS"],
+    category: "Web App",
+    github: "https://github.com/Kary1661/amazon_nextjs_ts",
+    webapp: "https://nextjs-amazon-clone-nine.vercel.app/"
   },
  ];

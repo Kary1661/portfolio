@@ -38,6 +38,16 @@ export const NavLogo = styled(LinkR)`
       padding: 0 0px;
   }
 `;
+
+export const Logo = styled.img`
+width: 20%;
+height: 20%;
+display: flex;
+alignItems: center; 
+marginBottom: 20px; 
+cursor: 'pointer';
+`;
+
 export const Span = styled.div`
     padding: 0 4px;
     font-weight: bold;
