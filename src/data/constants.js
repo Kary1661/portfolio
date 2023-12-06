@@ -130,7 +130,7 @@ export const projects = [
     description:
       "A simple javascript game of whack a mole using a little css",
     image:
-      "https://flic.kr/p/2pk5g9s",
+      "https://i.postimg.cc/0Q4gJnJ0/mario-game.png",
     tags: ["Javascript" , "CSS"],
     category: "Web App",
     github: "https://github.com/Kary1661/simple-mario-game",
@@ -143,7 +143,7 @@ export const projects = [
     description:
       "For the Henry final project we developed a web app to buy PC video games in digital format, together with 5 colleagues we created it from scratch in a period of 3 weeks, this app makes card purchases using Stripe, it has a profile section, for login we use Auth0. If your user has administrator permission, a dashboard can be used to ban users, modify or add games, as well as keep a record of all purchases made on the page.",
     image:
-      "https://flic.kr/p/2pk3SFX",
+      "https://i.postimg.cc/qBtqDZQ0/imagen-proyecto2.png",
     tags: ["React", "Redux", "Node", "Express", "Sequelize", "Styled Components", "Material UI", "PostgreSQL"],
     category: "Web App",
     github: "https://github.com/migayalach/PF_GAMES",
@@ -154,9 +154,9 @@ export const projects = [
     title: "Nextjs Amazon Clone",
     date: "December/2023",
     description:
-      "This is an Amazon clone using Next.js, it's robust and feature-rich e-commerce website that closely mimics the renowned online marketplace. Contains: Stripe Payment Integration, AuthJS Login, Tailwind CSS, Redux for State Management whit the power of Redux-Toolkit",
+      "This is an Amazon clone using Next.js, it's a robust and feature-rich e-commerce website that closely mimics the renowned online marketplace. Contains: Stripe Payment Integration, AuthJS Login, Tailwind CSS, Redux for State Management whit the power of Redux-Toolkit",
     image:
-      "https://flic.kr/p/2pk5fWJ",
+      "https://i.postimg.cc/Hktk7GW0/imagen-proyecto3.png",
     tags: ["Nextjs", "React", "ReduxToolkit", "Stripe", "AuthJS", "Tailwind CSS"],
     category: "Web App",
     github: "https://github.com/Kary1661/amazon_nextjs_ts",
